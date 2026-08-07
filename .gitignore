@@ -1,0 +1,11 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.bak
+*.log
+node_modules/
+*.tmp
+.idea/
+.DS_Store
